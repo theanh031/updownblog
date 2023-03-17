@@ -1,0 +1,73 @@
+:root {
+  --black-color: #000;
+  --white-color: #fff;
+  --gray-color: #f2f2f2;
+}
+
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: "Roboto", sans-serif;
+  font-size: 62.5%;
+  line-height: 1.6rem;
+  letter-spacing: 1.2px;
+}
+.text-bold {
+  font-weight: 700;
+}
+
+.m8 {
+  margin: 8px;
+}
+
+.m12 {
+  margin: 12px;
+}
+
+.m16 {
+  margin: 16px;
+}
+
+.mr-clear {
+  margin-right: 0!important;
+}
+
+.ml-clear {
+  margin-left: 0!important;
+}
+
+.p8 {
+  padding: 8px;
+}
+
+.p16 {
+  padding: 16px;
+}
+
+.p20 {
+  padding: 20px;
+}
+
+.t-blue {
+  color: #171CF0;
+}
+
+.t-green {
+  color: #30B254;
+
+}
+
+.t-blue-sky {
+  color: #12C9CD;
+;
+}
+.t-violet {
+  color: #BD16CE;
+
+}
